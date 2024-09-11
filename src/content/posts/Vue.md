@@ -1,3 +1,15 @@
+---
+title: Vue
+published: 2024-09-11
+description: 'Vue study'
+image: ''
+tags: [Demo, Example, Markdown, Fuwari]
+category: 'Examples'
+draft: false 
+---
+
+
+
 ## Vue
 
 ### 创建一个Vue应用
