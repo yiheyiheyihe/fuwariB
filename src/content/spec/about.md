@@ -1,5 +1,5 @@
 # About
-This is the demo site for [Fuwari](https://github.com/yiheyiheyihe).
+This is [Rain](https://github.com/yiheyiheyihe)' blog .
 
 ::github{repo="saicaca/fuwari"}
 
