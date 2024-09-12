@@ -1,9 +1,11 @@
 ---
-title: JavaScript
-published: 2024-07-01
-tags: [Markdown, Blogging, Demo]
-category: Examples
-draft: true
+title: Js
+published: 2024-09-11
+description: 'Vue study'
+image: ''
+tags: [Demo, Example, Markdown, Fuwari]
+category: 'study'
+draft: false 
 ---
 
 ## 一、概念
